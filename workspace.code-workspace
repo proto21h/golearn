@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "go-dev",
+			"path": "."
+		},
+		{
+			"path": "../php-dev"
+		}
+	],
+	"settings": {}
+}
